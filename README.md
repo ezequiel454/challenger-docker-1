@@ -1,1 +1,2 @@
-challenger-docker-1
+- Link: https://hub.docker.com/r/ezequiel454/codeeducation
+- Using the image: docker pull ezequiel454/codeeducation
